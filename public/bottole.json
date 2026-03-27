@@ -1,0 +1,57 @@
+[
+  {
+    "id": 1,
+    "name": "Aqua Pure Bottle",
+    "brand": "HydroLife",
+    "capacity_ml": 500,
+    "material": "Plastic",
+    "color": "Blue",
+    "price": 5.99,
+    "in_stock": true,
+    "image": "https://images.unsplash.com/photo-1526401485004-2fda9f3d5b5d"
+  },
+  {
+    "id": 2,
+    "name": "Steel Chill Bottle",
+    "brand": "CoolSip",
+    "capacity_ml": 750,
+    "material": "Stainless Steel",
+    "color": "Silver",
+    "price": 12.49,
+    "in_stock": true,
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8"
+  },
+  {
+    "id": 3,
+    "name": "Eco Green Bottle",
+    "brand": "NatureSip",
+    "capacity_ml": 600,
+    "material": "Glass",
+    "color": "Green",
+    "price": 9.99,
+    "in_stock": false,
+    "image": "https://images.unsplash.com/photo-1582719478181-4d7f6cba2d0d"
+  },
+  {
+    "id": 4,
+    "name": "Thermo Heat Bottle",
+    "brand": "HeatLock",
+    "capacity_ml": 1000,
+    "material": "Insulated Steel",
+    "color": "Black",
+    "price": 15.75,
+    "in_stock": true,
+    "image": "https://images.unsplash.com/photo-1616627980190-7f3a1e012d76"
+  },
+  {
+    "id": 5,
+    "name": "Mini Travel Bottle",
+    "brand": "GoHydrate",
+    "capacity_ml": 300,
+    "material": "Plastic",
+    "color": "Red",
+    "price": 4.25,
+    "in_stock": true,
+    "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff"
+  }
+]
